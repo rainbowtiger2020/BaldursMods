@@ -6,9 +6,12 @@
 Author notes
 ============
 
-This mod is intended to bring one of my favorite classes in line with the best class combos in the game. This class becomes extremely powerful. And is intended to be competitive with the other broken classes in the game. Such as Kensai/mage, a kensai whirlwinding ravager 6+, cleric/ranger dual wielding crom faeyr and literally any other weapon, etc
+This mod is intended to bring one of my favorite classes in line with the best class combos in the game. This class becomes extremely powerful.
+And is intended to be competitive with the other broken classes in the game. Such as Kensai/mage, a kensai whirlwinding ravager 6+,
+cleric/ranger dual wielding crom faeyr and literally any other weapon, etc
 
-That being said the early stages of the class will be powerful, but not overly broken. It is assumed that a player will not achieve level 13 until late chapter 4. Assuming they only completed 1 - 2 major side quests. The basic chapter/xp with a party of 6 assumption is
+That being said the early stages of the class will be powerful, but not overly broken. It is assumed that a player will not achieve level 13
+until late chapter 4. Assuming they only completed 1 - 2 major side quests. The basic chapter/xp with a party of 6 assumption is
 
 
 Chapter 1: Level 8
@@ -20,7 +23,8 @@ Chapter 6: Level 13-14
 Chapter 7: Level 14
 
 
-In Throne of Bhaal areas of EXP levels the power ramp up really kicks in and becomes ridculous. I realize it is overpowered, but in my eyes Throne of Bhaal is about nothing more than the short railroad epilogue of the child of Bhaal slaughtering everything in their path.
+In Throne of Bhaal areas of EXP levels the power ramp up really kicks in and becomes ridculous. I realize it is overpowered,
+but in my eyes Throne of Bhaal is about nothing more than the short railroad epilogue of the child of Bhaal slaughtering everything in their path.
 
 
 
