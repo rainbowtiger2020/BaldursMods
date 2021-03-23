@@ -6,12 +6,9 @@
 Author notes
 ============
 
-This mod is intended to bring one of my favorite classes in line with the best class combos in the game. This class becomes extremely powerful in ToB.
-And is intended to be competitive with the other broken classes in the game. Such as Kensai/mage, a kensai whirlwinding ravager 6+,
-cleric/ranger dual wielding crom faeyr and literally any other weapon, etc
+This mod is intended to bring one of my favorite classes in line with the best class combos in the game. This class becomes extremely powerful. And is intended to be competitive with the other broken classes in the game. Such as Kensai/mage, a kensai whirlwinding ravager 6+, cleric/ranger dual wielding crom faeyr and literally any other weapon, etc
 
-That being said the early stages of the class will be powerful, but not overly broken. It is assumed that a player will not achieve level 13
-until late chapter 4. Assuming they only completed 1 - 2 major side quests. The basic chapter/xp with a party of 6 assumption is
+That being said the early stages of the class will be powerful, but not overly broken. It is assumed that a player will not achieve level 13 until late chapter 4. Assuming they only completed 1 - 2 major side quests. The basic chapter/xp with a party of 6 assumption is
 
 
 Chapter 1: Level 8
@@ -23,8 +20,7 @@ Chapter 6: Level 13-14
 Chapter 7: Level 14
 
 
-In Throne of Bhaal areas of EXP levels the power ramp up really kicks in and becomes ridculous. I realize it is overpowered,
-but in my eyes Throne of Bhaal is about nothing more than the short railroad epilogue of the child of Bhaal slaughtering everything in their path.
+In Throne of Bhaal areas of EXP levels the power ramp up really kicks in and becomes ridculous. I realize it is overpowered, but in my eyes Throne of Bhaal is about nothing more than the short railroad epilogue of the child of Bhaal slaughtering everything in their path.
 
 
 
@@ -161,6 +157,27 @@ Greater werewolves may cast spells and speak in form
 
 Level: 13
 XP: 750,000
+STR: 21
+DEX: 21
+CON: 21
+HP+: 42
+BASEAC: -4
+THAC0: +5
+Atks+: +2
+EleRES: +40
+MagRES: +35
+MoveBonus: +1
+WepDMG: 2d6
+Enchant: +3
+Speed: 3
+Regen: 2/sec
+Saves: 4+ to all
+CritRange: +0
+Special: Immune to non magical weapons
+
+
+Level: 14
+XP: 1,500,000
 STR: 21
 DEX: 21
 CON: 21
