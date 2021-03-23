@@ -1,0 +1,282 @@
+
+
+
+
+============
+Author notes
+============
+
+This mod is intended to bring one of my favorite classes in line with the best class combos in the game. This class becomes extremely powerful. And is intended to be competitive with the other broken classes in the game. Such as Kensai/mage, a kensai whirlwinding ravager 6+, cleric/ranger dual wielding crom faeyr and literally any other weapon, etc
+
+That being said the early stages of the class will be powerful, but not overly broken. It is assumed that a player will not achieve level 13 until late chapter 4. Assuming they only completed 1 - 2 major side quests. The basic chapter/xp with a party of 6 assumption is
+
+
+Chapter 1: Level 8
+Chapter 2: Level 9-11
+Chapter 3: Level 11-12
+Chapter 4: Level 12-13 (13 roughly in asylum)
+Chapter 5: Level 13
+Chapter 6: Level 13-14
+Chapter 7: Level 14
+
+
+In Throne of Bhaal areas of EXP levels the power ramp up really kicks in and becomes ridculous. I realize it is overpowered, but in my eyes Throne of Bhaal is about nothing more than the short railroad epilogue of the child of Bhaal slaughtering everything in their path.
+
+
+
+===========
+Definitions
+===========
+
+Level: Level requirement
+XP: XP requirement
+STR: Strength stat in form
+DEX: Dexterity stat in form
+CON: Constitution stat in form
+HP+: Flat bonus hit points
+BASEAC: Baseline armor AC
+THAC0: Bonus THAC0
+Atks+: Bonus attacks per round
+EleRES: Bonus resistence to fire/cold/electricity
+MagRES: Bonus magic resistence
+MoveBonus: Move speed bonus (barbarians receive 2)
+WepDMG: Dice roll damage
+Enchant: Weapon enchantment level
+Speed: Weapon speed
+Regen: Regeneration speed
+Saves: Bonus to saves
+CritRange: Bonus critical strike range
+Special: In an effort to create a shapeshifter specific HLA, attack effects are added at higher levels.
+
+
+
+
+
+
+
+
+============
+==Werewolf==
+============
+
+Things to note
+
+Paw attack has no proficency as it functions as fists, but is considered a one handed weapon. So it benefits from that specialization.
+
+Attacks count as slashing or crushing
+
+Level: 7
+XP: 35,000
+STR: 19
+DEX: 19
+CON: 19
+HP+: 30
+BASEAC: 3
+THAC0: +0
+Atks+: +1
+EleRES: +20
+MagRES: +20
+MoveBonus: +0
+WepDMG: 1d10
+Enchant: +1
+Speed: 4
+Regen: 1/3 round
+Saves: +1 to all
+CritRange: +0
+
+Level: 10
+XP: 125,00
+STR: 19
+DEX: 19
+CON: 19
+HP+: 33
+BASEAC: 1
+THAC0: +1
+Atks+: +1
+EleRES: +20
+MagRES: +20
+MoveBonus: +1
+WepDMG: 1d12
+Enchant: +2
+Speed: 4
+Regen: 1/1 round
+Saves: +1 to all
+CritRange: +0
+
+
+Level: 11
+XP: 200,000
+STR: 19
+DEX: 19
+CON: 19
+HP+: 36
+BASEAC: 0
+THAC0: +2
+Atks+: +1.5
+EleRES: +25
+MagRES: +25
+MoveBonus: +1
+WepDMG: 1d12
+Enchant: +2
+Speed: 4
+Regen: 1/3 sec
+Saves: +2 to all
+CritRange: +0
+
+
+Level: 12
+XP: 300,000
+STR: 20
+DEX: 20
+CON: 20
+HP+: 39
+BASEAC: -1
+THAC0: +3
+Atks+: +1.5
+EleRES: +30
+MagRES: +25
+MoveBonus: +1
+WepDMG: 1d12
+Enchant: +2
+Speed: 3
+Regen: 1/2 sec
+Saves: +3 to all
+CritRange: +0
+
+
+
+
+
+====================
+==Greater Werewolf==
+====================
+
+Things to note
+
+Greater werewolves may cast spells and speak in form
+
+Level: 13
+XP: 750,000
+STR: 21
+DEX: 21
+CON: 21
+HP+: 52
+BASEAC: -6
+THAC0: +6
+Atks+: +2
+EleRES: +50
+MagRES: +40
+MoveBonus: +1
+WepDMG: 2d8
+Enchant: +3
+Speed: 3
+Regen: 3/sec
+Saves: 4+ to all
+CritRange: +1
+Special: Immune to non magical weapons
+
+
+Level: 16
+XP: 3,150,000
+STR: 22
+DEX: 22
+CON: 22
+HP+: 64
+BASEAC: -7
+THAC0: +8
+Atks+: +2.5
+EleRES: +55
+MagRES: +45
+MoveBonus: +1
+WepDMG: 2d10
+Speed: 2
+Enchant: +3
+Regen: 4/sec
+Saves: 5+ to all 
+CritRange: +1
+Special: Immune to non magical weapons
+
+
+Level: 20
+XP: 3,750,000
+STR: 22
+DEX: 22
+CON: 22
+HP+: 80
+BASEAC: -8
+THAC0: +10
+Atks+: +3
+EleRES: +60
+MagRES: +50
+MoveBonus: +2
+WepDMG: 2d10
+Speed: 2
+Enchant: +4
+Regen: 5/sec
+Saves: 5+ to all
+CritRange: +2
+Special: Immune to non magical weapons
+
+
+Level: 24
+XP: 4,700,000
+STR: 23
+DEX: 23
+CON: 23
+HP+: 96
+BASEAC: -9
+THAC0: +12
+Atks+: +3.5
+EleRES: +65
+MagRES: +55
+MoveBonus: +2
+WepDMG: 2d12
+Speed: 2
+Enchant: +4
+Regen: 6/sec
+Saves: 6+ to all
+CritRange: +2
+Special: Immune to non magical weapons
+Frenzy - Attacks have a 3% chance to trigger a frenzy, doubling attacks per round to 9 for 1 round
+
+Level: 28
+XP: 6,500,000
+STR: 24
+DEX: 24
+CON: 24
+HP+: 140
+BASEAC: -10
+THAC0: +14
+Atks+: +4
+EleRES: +70
+MagRES: +60
+MoveBonus: +2
+WepDMG: 2d12
+Speed: 1
+Enchant: +5
+Regen: 7/sec
+Saves: 7+ to all
+CritRange: +2
+Special: Immune to non magical weapons
+Frenzy - Attacks have a 6% chance to trigger a frenzy, doubling attacks per round to 10 for 1 round
+
+Level: 31
+XP: 8,000,000
+STR: 25
+DEX: 25
+CON: 25
+HP+: 155
+BASEAC: -10
+THAC0: +15
+Atks+: +4
+EleRES: +75
+MagRES: +65
+MoveBonus: +3
+WepDMG: 2d15
+Speed: 0
+Enchant: +5
+Regen: 8/sec
+Saves: 8+ to all
+CritRange: +3
+Special: Immune to non magical weapons
+Frenzy - Attacks have a 10% chance to trigger a frenzy, doubling attacks per round to 10 for 1 round
